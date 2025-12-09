@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       framework_url:
-        description: 'https://buzzheavier.com/1cemkp51ra67'
+        description: 'Direct URL to framework.jar'
         required: true
 
 jobs:
