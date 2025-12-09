@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       framework_url:
-        description: 'Direct URL to framework.jar'
+        description: 'https://gofile.io/d/4SiTFN'
         required: true
 
 jobs:
