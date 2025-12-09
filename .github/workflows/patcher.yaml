@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       framework_url:
-        description: 'https://gofile.io/d/4SiTFN'
+        description: 'https://buzzheavier.com/bmuz72gv5e6e'
         required: true
 
 jobs:
