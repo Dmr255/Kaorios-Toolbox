@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       framework_url:
-        description: 'https://buzzheavier.com/bmuz72gv5e6e'
+        description: 'https://buzzheavier.com/1cemkp51ra67'
         required: true
 
 jobs:
